@@ -1,0 +1,10 @@
+<settings>
+	
+
+	<category label="Site-Url">
+		<setting id="base_url" type="text" label="BaseUrl" default="" visible="true"/>
+	</category>
+	
+	
+	
+</settings>
