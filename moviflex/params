@@ -1,0 +1,12 @@
+plugin_title==MoviFlex
+plugin_id==moviflex
+section==arabic
+subsection==general
+version==1.0.4
+provider==Made by mfaraj,opesboy
+textsize==20
+textcolor==#00ffe875
+metadata==True
+fanart==True
+thumbnail==True
+downloadimage==True
