@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon
+ id="plusaj"
+  version="1.0.0"
+ name="+AJ كبريت"
+ provider-name="TSmedia Team">
+ <requires>
+        <import addon="xbmc.python" version="2.1.0" optional="true" />
+
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary> youtube channels from +AJ   </summary>
+    <description>   All videos from +AJ كبريت   </description>
+   <platform>all</platform>
+  </extension>
+</addon>
